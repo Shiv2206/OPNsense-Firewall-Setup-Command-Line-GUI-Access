@@ -22,19 +22,4 @@ Uploaded key images demonstrating:
 - Basic network configuration
 - Interface status and monitoring
 
-## 🎯 Objective
-
-To gain real-world experience in:
-- Setting up a secure network using a free, open-source firewall
-- Practicing firewall rule implementation and user control
-- Understanding segmentation using interfaces and aliases
-- Learning how small office networks are designed and secured
-
-## 🧑‍💻 About Me
-
-I'm a dedicated IT graduate currently working as a **Desktop Support Engineer Intern**, actively building skills in system administration, firewall configuration, and network infrastructure.
-
----
-
-📁 This project is a personal learning initiative and a part of my IT skill-building journey.
 
